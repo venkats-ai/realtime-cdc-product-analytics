@@ -1,1 +1,5 @@
-
+[
+  {"user_id":1,"event":"logn","timestamp":"2025-01-01T10:00:00Z"},
+  {"user_id":1,"event":"view_feature","feature":"Dashboard","timestamp":"2025-01-01T10:01:10Z"},
+  {"user_id":2,"event":"signup","timestamp":"2025-01-01T10:02:00Z"},
+]
