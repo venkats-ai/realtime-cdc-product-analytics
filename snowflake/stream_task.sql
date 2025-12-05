@@ -1,3 +1,6 @@
+-- Test edit from local machine
+
+
 USE DATABASE PRODUCT_ANALYTICS_DB;
 USE SCHEMA RAW;
 
