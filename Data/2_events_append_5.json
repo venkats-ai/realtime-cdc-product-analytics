@@ -1,0 +1,61 @@
+{
+  "event_id": "evt_02602",
+  "user_id": "u_1012",
+  "timestamp": "2023-10-30T09:10:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "dashboard_view"
+  },
+  "context": {
+    "location": "Mumbai"
+  }
+},
+{
+  "event_id": "evt_02603",
+  "user_id": "u_1044",
+  "timestamp": "2023-10-30T10:45:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "create_project"
+  },
+  "context": {
+    "location": "Bangalore"
+  }
+},
+{
+  "event_id": "evt_02604",
+  "user_id": "u_1012",
+  "timestamp": "2023-10-30T11:30:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "export_report",
+    "file_size_mb": 12.4
+  },
+  "context": {
+    "location": "Mumbai"
+  }
+},
+{
+  "event_id": "evt_02605",
+  "user_id": "u_1038",
+  "timestamp": "2023-10-02T08:15:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "invite_team"
+  },
+  "context": {
+    "location": "Delhi"
+  }
+},
+{
+  "event_id": "evt_02606",
+  "user_id": "u_1049",
+  "timestamp": "2023-10-30T13:00:00Z",
+  "event_name": "update_profile",
+  "properties": {
+    "fields_changed": ["phone_number", "company_name"]
+  },
+  "context": {
+    "location": "Hyderabad"
+  }
+}

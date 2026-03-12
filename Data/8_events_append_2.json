@@ -1,0 +1,25 @@
+{
+  "event_id": "evt_02629",
+  "user_id": "u_1050",
+  "timestamp": "2023-10-31T09:00:00Z",
+  "event_name": "signup",
+  "properties": {
+    "plan_selected": "Pro",
+    "source": "referral"
+  },
+  "context": {
+    "location": "Mumbai"
+  }
+},
+{
+  "event_id": "evt_02630",
+  "user_id": "u_1050",
+  "timestamp": "2023-10-31T09:10:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "create_project"
+  },
+  "context": {
+    "location": "Mumbai"
+  }
+}

@@ -39,11 +39,6 @@ def main():
     print(f"Loaded {len(raw_events)} raw events")
 
     transformed = transform_events(raw_events)
-
-    with open("events_transformed.json", "w") as f:
-        for row in transformed:
-            f.write(json.dumps(row) + "\n")
-            
     print(f"Transformed into {len(transformed)} rows:")
 
     for row in transformed:

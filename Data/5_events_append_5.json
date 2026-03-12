@@ -1,0 +1,60 @@
+{
+  "event_id": "evt_02617",
+  "user_id": "u_1001",
+  "timestamp": "2023-10-30T20:00:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "dashboard_view"
+  },
+  "context": {
+    "location": "Mumbai"
+  }
+},
+{
+  "event_id": "evt_02618",
+  "user_id": "u_1003",
+  "timestamp": "2023-10-30T20:05:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "export_report"
+  },
+  "context": {
+    "location": "Delhi"
+  }
+},
+{
+  "event_id": "evt_02619",
+  "user_id": "u_1001",
+  "timestamp": "2023-10-30T20:10:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "create_project"
+  },
+  "context": {
+    "location": "Mumbai"
+  }
+},
+{
+  "event_id": "evt_02620",
+  "user_id": "u_1018",
+  "timestamp": "2023-10-30T20:15:00Z",
+  "event_name": "login",
+  "properties": {
+    "login_method": "SSO"
+  },
+  "context": {
+    "location": "Chennai"
+  }
+},
+{
+  "event_id": "evt_02621",
+  "user_id": "u_1018",
+  "timestamp": "2023-10-30T20:20:00Z",
+  "event_name": "feature_used",
+  "properties": {
+    "feature_name": "invite_team"
+  },
+  "context": {
+    "location": "Chennai"
+  }
+}
